@@ -1,0 +1,44 @@
+.title{
+  background-color:red;
+}
+.div{
+  background-color:blue;
+  padding-bottom:35px;
+}
+#filipino_food{
+  margin-left:12px;
+  color:yellow;
+}
+.button1, .button2, .button3{
+  border-radius:12px;
+}
+
+#search{
+  margin-left:12px;
+  width:70%;
+  border-style:12px;
+}
+.table{
+  float:center;
+  padding-top:12px;
+}
+.button{
+  width:75%;
+}
+
+.abouts, .contacts{
+  background-color:lightblue;
+  text-align:center;
+  margin-top:12px;
+  margin-bottom:22px;
+  margin:4px;
+  display:none;
+  
+}
+.spaghetti, .tinola, .sinigang{
+  background-color:lightgreen;
+  display:none;
+}
+.border{
+  text-align:center;
+}
